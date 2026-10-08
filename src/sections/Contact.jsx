@@ -167,7 +167,7 @@ export function Contact({ id = 'contact' }) {
                   <span className="font-semibold text-blue-500 text-lg">Available for new roles</span>
                 </div>
                 <p className="text-text-secondary text-base sm:text-lg leading-relaxed">
-                  Open to high-impact Full-Stack Engineering, Shopify Developer roles worldwide.
+                  Open to high-impact Full-Stack Web Developer, Cyber Security roles worldwide.
                 </p>
               </div>
             </Reveal>
