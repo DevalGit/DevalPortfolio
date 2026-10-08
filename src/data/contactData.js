@@ -8,13 +8,13 @@
  */
 export const contactData = {
   /** Primary contact email — used for the mailto: CTA */
-  email: "jainilpidhadiya@gmail.com",
+  email: "devalmevada11@gmail.com",
 
   /** GitHub profile URL */
-  github: "https://github.com/Jainil05",
+  github: "https://github.com/DevalGit",
 
   /** LinkedIn profile URL */
-  linkedin: "https://www.linkedin.com/in/jainil-pidhadiya-09332725b/",
+  linkedin: "https://www.linkedin.com/in/deval-mevada-b8a278198/",
 
   /** Twitter/X profile URL — set to null to hide */
   twitter: null,

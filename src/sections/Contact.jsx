@@ -197,7 +197,7 @@ export function Contact({ id = 'contact' }) {
                 </div>
                 <div className="flex flex-col">
                   <span className="text-sm text-text-muted font-medium mb-1">Location</span>
-                  <span className="text-base sm:text-lg font-bold text-text-primary">Surat / Pune, India (IST / UTC+5:30)</span>
+                  <span className="text-base sm:text-lg font-bold text-text-primary">Berlin Germany</span>
                 </div>
               </div>
             </Reveal>

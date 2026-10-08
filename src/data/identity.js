@@ -6,17 +6,17 @@
  */
 
 export const identity = {
-  name: "JAINIL PIDHADIYA",
-  role: "FULL STACK SOFTWARE ENGINEER",
+  name: "DEVAL MEVADA",
+  role: "FULL STACK WEB DEVELOPER  ",
   tagline: "I build thoughtful digital products across frontend, backend, and everything in between.",
-  email: "jainilpidhadiya@gmail.com",
-  github: "https://github.com/Jainil05",
-  linkedin: "https://www.linkedin.com/in/jainil-pidhadiya-09332725b/",
+  email: "devalmevada11@gmail.com",
+  github: "https://github.com/DevalGit",
+  linkedin: "https://www.linkedin.com/in/deval-mevada-b8a278198/",
 
   // Production URL for SEO, Sitemap, and Canonical links (Replace with actual domain when deploying)
   siteUrl: "https://jainilpidhadiya.vercel.app",
 
-  location: "India",
+  location: "Berlin,Germany",
   coords: {
     lat: "21.17° N",
     lng: "72.83° E"
@@ -27,8 +27,8 @@ export const identity = {
   },
 
   // Media
-  profileImage: "/jainil.png", // Upload a transparent cutout (no background) as jainil.png
-  resumeUrl: "/Jainil_Pidhadiya_Resume.pdf", // Add your resume to the public folder
+  profileImage: "/deval.jpeg", // Upload a transparent cutout (no background) as jainil.png
+  resumeUrl: "/Deval_Mevada_Cv.pdf", // Add your resume to the public folder
 
   // The subtle recurring signature mark used across the site
   signatureMark: "SYS.ID // JP-05"

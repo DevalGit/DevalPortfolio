@@ -7,8 +7,8 @@ import { identity } from '../data/identity';
 
 // System status data - easily editable
 const SYSTEM_INFO = {
-  currentFocus: "Full Stack Software Engineering",
-  stack: "React · Node · MongoDB",
+  currentFocus: "Full Stack Web Developer",
+  stack: "React · Node · MongoDB ·  Git · Github ·  FastApi · NextJS",
   buildStatus: "92%",
   asciiProgress: "████████████░",
 };
@@ -85,7 +85,8 @@ export function Hero({ id = 'intro' }) {
               style={{ animationDelay: '120ms' }}
             >
               <p className="font-mono text-xs sm:text-sm font-semibold tracking-[0.18em] uppercase text-text-muted">
-                FULL STACK SOFTWARE ENGINEER <span className="text-cyan/60">/</span> PRODUCT BUILDER
+     WEB DEVELOPER <span className="text-cyan/60">/</span> CYBERSECURITY STUDENT <span className="text-cyan/60">/</span> PRODUCT BUILDER
+
               </p>
             </div>
 

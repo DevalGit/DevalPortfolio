@@ -8,7 +8,7 @@ const PROFILE_DATA = {
   items: [
     {
       label: "FOCUS",
-      value: "Full Stack Software Engineering",
+      value: "Full Stack Web Developer",
     },
     {
       label: "CURRENTLY",
@@ -20,7 +20,7 @@ const PROFILE_DATA = {
     },
     {
       label: "INTERESTS",
-      value: "Web · AI · Systems · UI",
+      value: "Web · AI · Systems · UI · Cyber",
     },
   ],
 };
